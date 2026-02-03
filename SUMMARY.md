@@ -31,6 +31,7 @@
 
 * [Authentication](api/authentication.md)
 * [Endpoints](api/endpoints.md)
+* [DeFi API Integrations](api/defi-apis.md)
 * [Rate Limits](api/rate-limits.md)
 * [Response Formats](api/responses.md)
 * [Error Codes](api/errors.md)

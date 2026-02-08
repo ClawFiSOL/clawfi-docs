@@ -55,9 +55,9 @@ ClawFi provides real-time crypto intelligence through:
 
 ## Getting Help
 
-- **GitHub Issues**: [github.com/ClawFiAI/clawfi/issues](https://github.com/ClawFiAI/clawfi/issues)
+- **GitHub Issues**: [https://github.com/ClawFiSOL?tab=repositories](https://github.com/ClawFiSOL?tab=repositories)
 - **Discord**: Join our community for support
-- **Twitter**: [@ClawFiAI](https://twitter.com/ClawFiAI)
+- **Twitter**: [@ClawFi_SOL](https://x.com/ClawFi_SOL)
 
 ## License
 
